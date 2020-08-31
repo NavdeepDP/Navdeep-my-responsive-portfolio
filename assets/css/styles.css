@@ -39,7 +39,6 @@ body {
   width: 100%;
   height: 60px;
   background-color: #6c757d;
-  
 }
 
 .top-footer {
@@ -59,84 +58,79 @@ body {
 
 /* contact page*/
 
-.contact-me
-{
-    background-color: white;
-    padding-right: 70px;
-    padding-left: 43px;
-    padding-top: 43px;
-    padding-bottom: 43px;
+.contact-me {
+  background-color: white;
+  padding-right: 70px;
+  padding-left: 43px;
+  padding-top: 43px;
+  padding-bottom: 43px;
 }
 
-#contact-header{
-    color: #17b8b8;
-    font-family:serif;
-    font-weight: bolder;
-
+#contact-header {
+  color: #17b8b8;
+  font-family: serif;
+  font-weight: bolder;
 }
 
-button{
-    background-color: #17b8b8;
-    border:none;
-    color:white;
-    text-align: center;
-    font-size:16px;
-  
-    margin:4px,2px;
-    margin-bottom: 20px;
-    padding-left: 30px;;
-    padding-right: 30px;;
-    padding-top: 20px;;
-    padding-bottom: 20px;;
+button {
+  background-color: #17b8b8;
+  border: none;
+  color: white;
+  text-align: center;
+  font-size: 16px;
+
+  margin: 4px, 2px;
+  margin-bottom: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
+
 /* portfolio page */
 
-#portfolio-header{
-    color: #17b8b8;
-    font-family:serif;
-    font-weight: bolder;
-
+#portfolio-header {
+  color: #17b8b8;
+  font-family: serif;
+  font-weight: bolder;
 }
 
-
-.portfolio
-{
-    background-color: white;
-    padding-right: 10px;
-    padding-left: 20px;
-    padding-top: 43px;
-    padding-bottom: 70px;
+.portfolio-col {
+  background-color: white;
+  padding-right: 10px;
+  padding-left: 20px;
+  padding-top: 43px;
+  padding-bottom: 70px;
 }
 
-.image-p{
-    width: 100%;
-    height: auto;
-    margin-bottom: 10px;
-
+.image-p {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 10px;
 }
 
 /* index page */
-.about-me
-{
-    background-color: white;
-    /* padding-right: 70px;
+
+
+.about-me {
+  background-color: white;
+  /* padding-right: 70px;
     padding-left: 43px;
     padding-top: 43px;
     padding-bottom: 43px; */
 }
 
-#about-me-header{
-    color: #17b8b8;
-    font-family:serif;
-    font-weight: bolder;
-
+#about-me-header {
+  color: #17b8b8;
+  font-family: serif;
+  font-weight: bolder;
 }
 
-.image-about-me{
-    float: left;
-    margin-right: 20px;
+.image-about-me {
+  float: left;
+  margin-right: 20px;
 }
 
-.mt-auto{
-    margin-top: auto!important;
+.mt-auto {
+  margin-top: auto !important;
 }
