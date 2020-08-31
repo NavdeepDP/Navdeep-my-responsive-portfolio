@@ -21,6 +21,7 @@ body {
   background-color: #464646;
 }
 
+/* Nav Bar*/
 #your-name {
   background-color: #17b8b8;
   font-weight: bolder;
@@ -33,6 +34,7 @@ body {
   margin-bottom: 50px;
 }
 
+/* Footer */
 .footer {
   position: fixed;
   bottom: 0;
@@ -56,7 +58,7 @@ body {
   color: #adb5bd;
 }
 
-/* contact page*/
+/* Contact Page*/
 
 .contact-me {
   background-color: white;
@@ -112,12 +114,12 @@ button {
 /* index page */
 
 
-.about-me {
-  background-color: white;
-  /* padding-right: 70px;
-    padding-left: 43px;
-    padding-top: 43px;
-    padding-bottom: 43px; */
+.about-me-col {
+    background-color: white;
+    /* padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;  */
 }
 
 #about-me-header {
@@ -127,6 +129,9 @@ button {
 }
 
 .image-about-me {
+  height: 150px;
+  width: 150px;
+  max-width: 100%;
   float: left;
   margin-right: 20px;
 }
@@ -134,3 +139,4 @@ button {
 .mt-auto {
   margin-top: auto !important;
 }
+
