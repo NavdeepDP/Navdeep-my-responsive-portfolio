@@ -9,6 +9,21 @@ The link to the website repository: [Website Repo link](https://github.com/Navde
 
 The site is published at [Published Website link](https://navdeepdp.github.io/Navdeep-my-responsive-portfolio/)
 
+## Development Environment
+Code is developed in VS code Studio
+![Development Environment](./assets/images/vs-code.png)
+
+
+## Website Structure
+
+Website consists of three pages:
+
+- Contact
+- Portfolio
+- About
+
+These pages are accessible through the Navbar links.
+
 ## Installation
 
 - Code is developed using VS Code studio.
